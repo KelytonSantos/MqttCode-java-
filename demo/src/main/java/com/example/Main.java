@@ -40,7 +40,6 @@ public class Main {
     }
     
     /*private static void inserirNoBancoDeDados(String message) {
-        // Código para inserir os dados no banco de dados aqui
     }*/
 
 }
